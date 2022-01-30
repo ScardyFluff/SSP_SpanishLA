@@ -1,1 +1,1 @@
-# Fluff_SSP_SpanishLA
+# SSP Translation: Spanish (Latin America) / Español (Latinoamerica)
