@@ -1,15 +1,15 @@
 ﻿charset,UTF-8
 0,Normal
-1,Embarrassment
-2,Surprise
-3,Anxiety
-4,Discourage
-5,Smile
-6,Closing Eyes
-7,Anger
-8,Sneer
+1,Vergüenza
+2,Sorpresa
+3,Ansiedad
+4,Desanimar
+5,Sonreír
+6,Ojos Cerrados
+7,Enojo
+8,Mofar
 10,\1-Normal
-11,\1-Opening Eyes
-19,\1-Singing
-20,Signboard
-25,Singing
+11,\1-Ajos Abiertos 
+19,\1-Cantando
+20,Letrero
+25,Cantando

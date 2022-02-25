@@ -31,7 +31,7 @@ craftman,ScardyFluff
 craftmanurl,https://github.com/ScardyFluff/Fluff_SSP_SpanishLA
 
 //Network Update URL
-homeurl,
+//homeurl,
 
 //Popup menu font name and height
 //menu.font.name,
@@ -42,4 +42,3 @@ homeurl,
 
 //Help document URL
 helpurl,http://ssp.shillest.net/ukadoc/ssphelp/
-
