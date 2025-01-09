@@ -3,13 +3,13 @@
 1,Vergüenza
 2,Sorpresa
 3,Ansiedad
-4,Desanimar
+4,Desanimo
 5,Sonreír
 6,Ojos Cerrados
 7,Enojo
 8,Mofar
 10,\1-Normal
-11,\1-Ajos Abiertos 
+11,\1-Ajos Abiertos
 19,\1-Cantando
 20,Letrero
 25,Cantando

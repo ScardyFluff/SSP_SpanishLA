@@ -2,7 +2,7 @@
 //Because only characters that all Windows systems, or any other OSs, can recognize is ASCII.
 
 //Language name to display language menu.
-name,Español (Latinoamerica)
+name,Spanish
 
 //Locale for PLUGIN/2.0 Language Header
 //Japanese, Chinese-Simplified, Chinese-Traditional, English, Hangeoul etc...
@@ -28,7 +28,7 @@ holidayname,holidays.txt
 
 //Creator. Because for unification of other "descript.txt" format,using strange English "craftman".
 craftman,ScardyFluff
-craftmanurl,https://github.com/ScardyFluff/Fluff_SSP_SpanishLA
+craftmanurl,https://github.com/ScardyFluff/SSP_SpanishLA
 
 //Network Update URL
 //homeurl,
@@ -38,7 +38,7 @@ craftmanurl,https://github.com/ScardyFluff/Fluff_SSP_SpanishLA
 //menu.font.height,
 
 //relative path to the default ghost.
-//defaultghostpath,emily
+//defaultghostpath,emily4
 
 //Help document URL
 helpurl,http://ssp.shillest.net/ukadoc/ssphelp/
